@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Нина Феоктистова](https://up.htmlacademy.ru/javascript/29/user/2171389).
-* Наставник: `Неизвестно`.
+* Наставник: `Антон Попов` (https://htmlacademy.ru/profile/joker).
 
 ---
 
